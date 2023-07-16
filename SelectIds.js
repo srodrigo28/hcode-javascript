@@ -1,0 +1,8 @@
+var name = document.querySelector("#name")
+var gender = document.querySelector("#form-user-create [name=gender]:checked")
+var birth = document.querySelector("#birth")
+var country = document.querySelector("#country")
+var email = document.querySelector("#email")
+var password = document.querySelector("#password")
+var photo = document.querySelector("#inputFile")
+var admin = document.querySelector("#inputAdmin")
